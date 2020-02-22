@@ -1,0 +1,36 @@
+.p--red{
+    color:red;
+}
+.p--blue{
+    color:blue;
+}
+.p--green{
+    color:green;
+}
+.p--orange{
+    color:orange;
+}
+.p--big{
+    font-size:24px;
+}
+.p--tiny{
+    font-size:10px;
+}
+.p--centered{
+    text-align: center;
+}
+.p--bold{
+    font-weight: bold;
+}
+.p--alt-font{
+    font-family: cursive;
+}
+.styledFont{
+    color:teal;
+    font-style: italic;
+}
+
+#styledImage{
+    border:10px solid black;
+    border-radius: 5px;
+}
